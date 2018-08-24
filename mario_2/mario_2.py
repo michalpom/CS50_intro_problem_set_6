@@ -22,5 +22,7 @@ def main():
         print(space + brick + "  " + brick + space)
         level=level-1
 
+    print(brick)
+
 if __name__ == "__main__":
     main()

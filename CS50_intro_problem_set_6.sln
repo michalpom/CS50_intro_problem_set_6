@@ -7,6 +7,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mario_1", "mario_1\mario_1.
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "mario_2", "mario_2\mario_2.pyproj", "{3FF48097-2D13-4624-B9B9-D6BF85227343}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "cash_greedy", "cash_greedy\cash_greedy.pyproj", "{3DD4B288-F89A-42CD-8734-4A4331D4DF6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,8 @@ Global
 		{FC622117-49B4-493F-86A4-69FE452DA393}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3FF48097-2D13-4624-B9B9-D6BF85227343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3FF48097-2D13-4624-B9B9-D6BF85227343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD4B288-F89A-42CD-8734-4A4331D4DF6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD4B288-F89A-42CD-8734-4A4331D4DF6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
